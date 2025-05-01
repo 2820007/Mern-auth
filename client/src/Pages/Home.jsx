@@ -8,6 +8,7 @@ const Home = () => {
     bg-[url("/bg_img.png")] bg-cover bg-center'>
        <Navbar/>
        <Header/>
+       
     </div>
   )
 }
